@@ -6,8 +6,8 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 ## Conhecimentos 👨‍💻
 Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="20px" alt="Logo do Python"> <br/>
 Atualmente aprendendo e praticando: <br/>
-C <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="20px" alt="Logo do C"><br/>
-HTML 5 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
+C &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo do C"><br/>
+HTML 5 &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
 CSS3
 
 
@@ -23,8 +23,8 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 ## Skills 👨‍💻
 Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="20px" alt="Python logo"><br/>
 Currently learning and practicing:<br/>
-C <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"><br/>
-HTML 5 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
+C &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"><br/>
+HTML 5 &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
 CSS3
 
 ## Contact 📩
@@ -39,8 +39,8 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 ## Competénces 👨‍💻
 Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="20px" alt="Logo du Python"><br/>
 Actuellement en train d'apprendre et de pratiquer:<br/>
-C <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="20px" alt="Logo du C"><br/>
-HTML 5 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
+C &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"><br/>
+HTML 5 &nbsp<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px> <br/>
 CSS3
 
 ## Contacte 📩
