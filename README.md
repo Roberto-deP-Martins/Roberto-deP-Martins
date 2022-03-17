@@ -14,6 +14,7 @@ Atualmente aprendendo e praticando:<br/>
   <li>CSS3</li>
 </ul>
 <br/>
+
 ### Contato 📩
 Posso ser contatado através dos emails robertomartins@id.uff.br ou através de robertomartins.profissional@gmail.com.<br/>
 Também estou disponível no <a href="https://www.linkedin.com/in/roberto-martins-a0914022a/">LinkedIn&nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/linkedin-brands.png" width="15px"></a><br/>
@@ -34,6 +35,7 @@ Currently learning and practicing:<br/>
   <li>CSS3</li>
 </ul>
 <br/>
+
 ### Contact 📩
 I can be reached at robertomartins@id.uff.br or robertomartins.profissional@gmail.com<br/>
 I can also be found on <a href="https://www.linkedin.com/in/roberto-martins-a0914022a/">LinkedIn&nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/linkedin-brands.png" width="15px"></a><br/>
@@ -54,6 +56,7 @@ Actuellement en train d'apprendre et de pratiquer:<br/>
   <li>CSS3</li>
 <ul>
 <br/>
+
 ### Contacte 📩
 Je peux être contacté en robertomartins@id.uff.br ou robertomartins.profissional@gmail.com<br/>
 Je peux être trouvé aussi sur <a href="https://www.linkedin.com/in/roberto-martins-a0914022a/">LinkedIn&nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/linkedin-brands.png" width="15px"></a>
