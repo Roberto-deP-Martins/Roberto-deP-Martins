@@ -3,7 +3,7 @@
 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) e atualmente estudando e praticando Python. Em breve, estarei estudando e praticando a linguagem C antes do início do próximo período.
 
 Posso ser contatado através dos emails robertomartins@id.uff.br ou através de robertomartins.profissional@gmail.com
-Também posso ser encontrado no <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/icon_linkedin.png" width="10px">
+Também posso ser encontrado no <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/icon_linkedin.png" width="40px">
 
 # English
 
