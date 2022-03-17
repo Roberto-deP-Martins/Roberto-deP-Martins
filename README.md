@@ -46,13 +46,13 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 ### Competénces 👨‍💻
 <ul>
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Logo du Python"></li>
-<ul>
+</ul>
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <ul>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
-<ul>
+</ul>
 
 ### Contacte 📩
 Je peux être contacté en robertomartins@id.uff.br ou robertomartins.profissional@gmail.com<br/>
