@@ -12,8 +12,7 @@ Atualmente aprendendo e praticando:<br/>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo do C"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
-</ul>
-<br/>
+</ul><br/>
 
 ### Contato 📩
 Posso ser contatado através dos emails robertomartins@id.uff.br ou através de robertomartins.profissional@gmail.com.<br/>
@@ -33,8 +32,7 @@ Currently learning and practicing:<br/>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
-</ul>
-<br/>
+</ul><br/>
 
 ### Contact 📩
 I can be reached at robertomartins@id.uff.br or robertomartins.profissional@gmail.com<br/>
@@ -54,8 +52,7 @@ Actuellement en train d'apprendre et de pratiquer:<br/>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
-<ul>
-<br/>
+<ul><br/>
 
 ### Contacte 📩
 Je peux être contacté en robertomartins@id.uff.br ou robertomartins.profissional@gmail.com<br/>
