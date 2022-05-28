@@ -6,12 +6,12 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 ### Conhecimentos 👨‍💻
 <ul>
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Logo do Python"></li>
+  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
+  <li>CSS3</li>
 </ul>
 Atualmente aprendendo e praticando:<br/>
 <ul>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo do C"></li>
-  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
-  <li>CSS3</li>
 </ul>
 
 ### Contato 📩
@@ -26,12 +26,12 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 ### Skills 👨‍💻
 <ul>
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Python logo"></li>
+  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
+  <li>CSS3</li>
 </ul>
 Currently learning and practicing:<br/>
 <ul>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"></li>
-  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
-  <li>CSS3</li>
 </ul>
 
 ### Contact 📩
@@ -46,12 +46,12 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 ### Competénces 👨‍💻
 <ul>
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Logo du Python"></li>
+  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
+  <li>CSS3</li>
 </ul>
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <ul>
   <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"></li>
-  <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
-  <li>CSS3</li>
 </ul>
 
 ### Contacte 📩
