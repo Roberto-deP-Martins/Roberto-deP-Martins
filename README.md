@@ -13,7 +13,7 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 Atualmente aprendendo e praticando:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo do Swift"></li>
-  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo do JavaScript"></li>
+  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo do JavaScript"></li>
 </ul>
 
 ### Contato 📩
@@ -35,7 +35,7 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 Currently learning and practicing:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Swift logo"></li>
-  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="JavaScript logo"></li>
+  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="JavaScript logo"></li>
 </ul>
 
 ### Contact 📩
@@ -57,7 +57,7 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo du Swift"></li>
-  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo du JavaScript"></li>
+  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo du JavaScript"></li>
 </ul>
 
 ### Contacte 📩
