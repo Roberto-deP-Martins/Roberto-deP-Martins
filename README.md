@@ -8,10 +8,12 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Logo do Python"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
+  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo do C"></li>
 </ul>
 Atualmente aprendendo e praticando:<br/>
 <ul>
-  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo do C"></li>
+  <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo do Swift"></li>
+  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo do JavaScript"></li>
 </ul>
 
 ### Contato 📩
@@ -28,10 +30,12 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Python logo"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
+  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"></li>
 </ul>
 Currently learning and practicing:<br/>
 <ul>
-  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="C logo"></li>
+  <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Swift logo"></li>
+  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="JavaScript logo"></li>
 </ul>
 
 ### Contact 📩
@@ -48,10 +52,12 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
   <li>Python <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="15px" alt="Logo du Python"></li>
   <li>HTML 5 &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=20px></li>
   <li>CSS3</li>
+  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"></li>
 </ul>
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <ul>
-  <li>C &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="15px" alt="Logo du C"></li>
+  <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo du Swift"></li>
+  <li>JavaScript &nbsp;<img sr="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo du JavaScript"></li>
 </ul>
 
 ### Contacte 📩
