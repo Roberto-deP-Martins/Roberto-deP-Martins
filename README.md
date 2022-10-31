@@ -1,7 +1,7 @@
 # Português 
 
 ### Olá! 👋
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no segundo período do curso. Em breve, estarei estudando e praticando a linguagem C antes do início do próximo período.<br/>
+Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no terceiro período do curso.<br/>
 
 ### Conhecimentos 👨‍💻
 <ul>
@@ -13,7 +13,6 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 Atualmente aprendendo e praticando:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo do Swift"></li>
-  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo do JavaScript"></li>
 </ul>
 
 ### Contato 📩
@@ -23,7 +22,7 @@ Também estou disponível no <a href="https://www.linkedin.com/in/roberto-martin
 # English
 
 ### Hello! 👋
-I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's second semester.<br/>
+I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's third semester.<br/>
 
 ### Skills 👨‍💻
 <ul>
@@ -35,7 +34,6 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 Currently learning and practicing:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Swift logo"></li>
-  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="JavaScript logo"></li>
 </ul>
 
 ### Contact 📩
@@ -45,7 +43,7 @@ I can also be found on <a href="https://www.linkedin.com/in/roberto-martins-a091
 # Français
 
 ### Salut! 👋
-Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le deuxième semestre du cours. et actuellement j'étudie et pratique Python. Bientôt, je vais étudier et pratiquer la langage C avant le debut du semestre prochain.<br/>
+Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le troisième semestre du cours.<br/>
 
 ### Competénces 👨‍💻
 <ul>
@@ -57,7 +55,6 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <ul>
   <li>Swift &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=15px alt="Logo du Swift"></li>
-  <li>JavaScript &nbsp;<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=15px alt="Logo du JavaScript"></li>
 </ul>
 
 ### Contacte 📩
