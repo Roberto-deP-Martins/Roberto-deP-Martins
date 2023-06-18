@@ -17,7 +17,7 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 
 Atualmente aprendendo e praticando:</br>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo do Kotlin">
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=50px alt="Logo do Java">
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo do Java">
 
 ## <b>Contato</b> 📩
 Posso ser contatado através dos emails robertomartins@id.uff.br ou através de robertomartins.profissional@gmail.com.<br/>
@@ -37,7 +37,7 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 
 Currently learning and practicing:</br>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Kotlin logo">
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=50px alt="Java logo">
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Java logo">
 
 ### <b>Contact</b> 📩
 I can be reached at robertomartins@id.uff.br or robertomartins.profissional@gmail.com<br/>
@@ -57,7 +57,7 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo du Kotlin">
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=50px alt="Logo du Java">
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo du Java">
 
 
 ### <b>Contacte</b> 📩
