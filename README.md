@@ -6,7 +6,7 @@
 # Português 
 
 ## <b>Olá!</b> 👋
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no terceiro período do curso.<br/>
+Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no quarto período do curso.<br/>
 
 ## <b>Conhecimentos</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
 
 Atualmente aprendendo e praticando:</br>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo do Kotlin">
-
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=30px alt="Logo do Java">
 
 ## <b>Contato</b> 📩
 Posso ser contatado através dos emails robertomartins@id.uff.br ou através de robertomartins.profissional@gmail.com.<br/>
@@ -26,7 +26,7 @@ Também estou disponível no <a href="https://www.linkedin.com/in/roberto-martin
 # English
 
 ### <b>Hello!</b> 👋
-I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's third semester.<br/>
+I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's fourth semester.<br/>
 
 ### <b>Skills</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Python logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@ I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) cur
 
 Currently learning and practicing:</br>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Kotlin logo">
-
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=30px alt="Java logo">
 
 ### <b>Contact</b> 📩
 I can be reached at robertomartins@id.uff.br or robertomartins.profissional@gmail.com<br/>
@@ -46,7 +46,7 @@ I can also be found on <a href="https://www.linkedin.com/in/roberto-martins-a091
 # Français
 
 ### <b>Salut!</b> 👋
-Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le troisième semestre du cours.<br/>
+Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le quatrième semestre du cours.<br/>
 
 ### <b>Competénces</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,6 +57,7 @@ Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminens
 
 Actuellement en train d'apprendre et de pratiquer:<br/>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo du Kotlin">
+<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=30px alt="Logo du Java">
 
 
 ### <b>Contacte</b> 📩
