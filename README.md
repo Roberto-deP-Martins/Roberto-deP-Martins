@@ -6,7 +6,7 @@
 # Português 
 
 ## <b>Olá!</b> 👋
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no quarto período do curso.<br/>
+Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no quinto período do curso.<br/>
 
 ## <b>Conhecimentos</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@ Também estou disponível no <a href="https://www.linkedin.com/in/roberto-martin
 # English
 
 ### <b>Hello!</b> 👋
-I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's fourth semester.<br/>
+I'm an Information Systems estudent at Universidade Federal Fluminense (UFF) currently on the course's fifth semester.<br/>
 
 ### <b>Skills</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Python logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@ I can also be found on <a href="https://www.linkedin.com/in/roberto-martins-a091
 # Français
 
 ### <b>Salut!</b> 👋
-Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le quatrième semestre du cours.<br/>
+Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le cinquième semestre du cours.<br/>
 
 ### <b>Competénces</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
