@@ -4,11 +4,10 @@
 <br></br>
 
 # Português 
-<h3 align="center">
-  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a>
-</h3>
+
+<div align="center">
+  <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a></h3> <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a></h3>
+</div>
 
 ## <b>Olá! 👋</b>
 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no quinto período do curso.<br/>
