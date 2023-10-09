@@ -3,9 +3,10 @@
 </p>
 <br></br>
 
-<div align="center">
-  <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a></h3> <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a></h3>
-</div>
+<lu align="center">
+  <li><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a></li>
+  <li><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a></li>
+</lu>
 
 # Português 
 ## <b>Olá! 👋</b>
