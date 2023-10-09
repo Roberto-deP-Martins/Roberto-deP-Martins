@@ -3,12 +3,8 @@
 </p>
 <br></br>
 
-<lu align="center">
-  <li><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a></li>
-  <li><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a></li>
-</lu>
-
 # Português 
+
 ## <b>Olá! 👋</b>
 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no quinto período do curso.<br/>
 
@@ -28,4 +24,12 @@ Atualmente aprendendo e praticando:</br>
   <a title="robertomartins.profissional@gmail.com" href = "mailto:robertomartins.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/roberto-p-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px" target="_blank"></a>
+</div>
+
+
+## Other languasges
+<div align="center">
+  <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a>
 </div>
