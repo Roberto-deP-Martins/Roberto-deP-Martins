@@ -27,5 +27,5 @@ Actuellement en train d'apprendre et de pratiquer:<br/>
 <div align="center">
   <a title="robertomartins.profissional@gmail.com" href = "mailto:robertomartins.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/roberto-p-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roberto-p-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px" target="_blank"></a>
 </div>
