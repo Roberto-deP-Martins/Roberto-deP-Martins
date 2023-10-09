@@ -25,11 +25,3 @@ Atualmente aprendendo e praticando:</br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/roberto-p-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px" target="_blank"></a>
 </div>
-
-
-## Other languasges
-<div align="center">
-  <h3><a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a>
-</div>
