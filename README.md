@@ -5,9 +5,9 @@
 # Português 
 
 <h3 align="center">
-  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-EN.md">English Version</a>
+  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/README-EN.md">English Version</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/README-FR.md">Version Française</a>
+  <a href="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/README-FR.md">Version Française</a>
 </h3>
 
 ## <b>Olá! 👋</b>
