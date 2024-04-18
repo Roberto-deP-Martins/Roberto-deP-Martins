@@ -9,7 +9,7 @@
 </h3>
 
 ## <b>Salut! 👋</b>
-Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le cinquième semestre du cours.<br/>
+Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le sixième semestre du cours.<br/>
 
 ## <b>Competénces</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
