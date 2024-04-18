@@ -9,7 +9,7 @@
 </h3>
 
 ## <b>Hello! 👋</b>
-I'm an Information Systems student at Universidade Federal Fluminense (UFF) currently on the course's fifth semester.<br/>
+I'm an Information Systems student at Universidade Federal Fluminense (UFF) currently on the course's sixth semester.<br/>
 
 ## <b>Skills 👨‍💻</b>
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Python logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
