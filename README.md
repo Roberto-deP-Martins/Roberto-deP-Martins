@@ -11,14 +11,15 @@
 </h3>
 
 ## <b>Olá! 👋</b>
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no sexto período do curso.<br/>
+Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no sétimo período do curso.<br/>
 
 ## <b>Conhecimentos</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=40px alt="Logo do HTML"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logoCSS.png" width="30px" alt="Logo do CSS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="30px" alt="Logo do C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=30px alt="Logo do Swift">
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=30px alt="Logo do Swift">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=30x alt="Logo do JavaScript">
 
 Atualmente aprendendo e praticando:</br>
 <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo do Kotlin">
