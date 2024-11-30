@@ -9,18 +9,16 @@
 </h3>
 
 ## <b>Salut! 👋</b>
-Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le sixième semestre du cours.<br/>
+Je suis étudiant de Systèmes d'Information à l'Universidade Federal Fluminense (UFF) actuellement en le septième semestre du cours.<br/>
 
 ## <b>Competénces</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/HTML5_Logo_32.png" width=40px alt="Logo do HTML">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logoCSS.png" width="30px" alt="Logo do CSS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="30px" alt="Logo do C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=30px alt="Logo do Swift">
-
-Actuellement en train d'apprendre et de pratiquer:<br/>
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo du Kotlin">
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo du Java">
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=30px alt="Logo do Swift">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo du Kotlin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo du Java">
 
 
 ## <b>Contacte 📩</b>
