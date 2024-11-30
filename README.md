@@ -19,11 +19,9 @@ Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) a
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logoCSS.png" width="30px" alt="Logo do CSS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/C_Logo.png" width="30px" alt="Logo do C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Swift.png" width=30px alt="Logo do Swift">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=30x alt="Logo do JavaScript">
-
-Atualmente aprendendo e praticando:</br>
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo do Kotlin">
-<img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo do Java">
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/JavaScript.png" width=30x alt="Logo do JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Kotlin.png" width=30px alt="Logo do Kotlin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/Java.png" width=60px alt="Logo do Java">
 
 ## <b>Contato 📩</b>
 <div align="center">
