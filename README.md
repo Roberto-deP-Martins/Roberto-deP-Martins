@@ -11,7 +11,7 @@
 </h3>
 
 ## <b>Olá! 👋</b>
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no sétimo período do curso.<br/>
+Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no oitavo período do curso.<br/>
 
 ## <b>Conhecimentos</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
