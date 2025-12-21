@@ -11,7 +11,7 @@
 </h3>
 
 ## <b>Olá! 👋</b>
-Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF) atualmente no oitavo período do curso.<br/>
+Bacharel em Sistemas de Informação pela Universidade Federal Fluminense (UFF) graduado em 2025. Atualmente trabalhando com desenvolvimento de software mobile na <a href="https://calindra.tech/">Calindra</a>.<br/>
 
 ## <b>Conhecimentos</b> 👨‍💻
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Logo do Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
