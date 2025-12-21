@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roberto-dep-martins&layout=compact&langs_count=7&theme=dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-dep-martins&layout=compact&langs_count=7&theme=dark">
 </div>
 
 # English 
@@ -9,7 +9,7 @@
 </h3>
 
 ## <b>Hello! 👋</b>
-I'm an Information Systems student at Universidade Federal Fluminense (UFF) currently on the course's seventh semester.<br/>
+Information Systems graduate at Universidade Federal Fluminense (UFF). Currently working on mobile software development at <a href="https://calindra.tech/">Calindra</a>.<br/>
 
 ## <b>Skills 👨‍💻</b>
   <img src="https://github.com/Roberto-deP-Martins/Roberto-deP-Martins/blob/main/Imagens/logo_python.png" width="30px" alt="Python logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
