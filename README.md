@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Top Languages](./profile/top-langs.svg)
+  ![Top Languages](./profile/top-langs-pt-br.svg)
 </div>
 
 # Português 

@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="200px" src="./stats-en.svg">
+  
+  ![Top Languages](./profile/top-langs.svg)
 </div>
 
 # English 

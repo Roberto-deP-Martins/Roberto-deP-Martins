@@ -15,12 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate top languages card
+      - name: Generate top languages card (PT-BR)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&locale=pt-br'
+          path: profile/top-langs-pt-br.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (EN)
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark'
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (FR)
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&locale=fr'
+          path: profile/top-langs-fr.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
